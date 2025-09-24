@@ -7,7 +7,7 @@ The system simulates 2–5 intelligent agents operating in a simplified environm
 ---
 
 ## Key Features
-- Multi-Agent Cooperation:** Agents communicate and coordinate to optimize resource utilization.  
+- Multi-Agent Cooperation Agents communicate and coordinate to optimize resource utilization.  
 - Adaptive Strategies: Agents dynamically adjust actions based on changing environment conditions.  
 - Novel Reward Shaping: Reward functions are designed to encourage efficiency and fairness among all agents.  
 - Algorithm Variety: Implements baseline and advanced RL algorithms including:
