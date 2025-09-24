@@ -1,6 +1,6 @@
-"numpy" 
-"pandas" 
-"matplotlib" 
-"seaborn" 
-"torch" 
-"tensorflow" 
+numpy
+pandas
+matplotlib
+seaborn
+torch
+tensorflow
